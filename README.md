@@ -37,8 +37,7 @@ Pendant ce projet, j'ai dû mettre à l'épreuve mes connaissances techniques et
 ## ✨ Carte mentale du projet
 Afin de mieux m'approprier ce projet et structurer ma démarche, j'ai réalisé cette carte mentale. Elle résume le flux de travail, de la compréhension des besoins comptables à la restitution visuelle.
 
-*(Insérer ici l'image "Figure 9 : Carte mentale du projet")*
-![Projet_Accounting](https://github.com/MazarsLoris/Projet_Accounting/blob/main/Endrix.xmind)
+![Projet_Accounting](https://github.com/MazarsLoris/Projet_Accounting/blob/main/Carte%20mentale/Endrix.png)
 
 ## Conclusion du projet
 
