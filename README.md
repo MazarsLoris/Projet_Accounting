@@ -60,7 +60,7 @@ Ce projet a permis de passer d'une analyse manuelle et chronophage à une soluti
 *   Utilisation de la **mise en forme conditionnelle** (Rouge/Vert) pour une lecture immédiate par les comptables.
 *   Création de **filtres croisés** pour explorer les données par Région ou par Secteur d'activité.
 
-### 🔎 En résumé
+### En résumé
 Ce projet illustre ma capacité à **créer de la valeur** à partir de données brutes. Il ne s'agissait pas seulement de coder, mais de fournir un outil opérationnel pour les experts-comptables, permettant in fine d'optimiser la trésorerie de leurs clients.
 
 Je suis désormais capable de gérer un projet Data de A à Z : de la définition du besoin métier à la livraison d'un dashboard décisionnel.
